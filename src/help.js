@@ -1,35 +1,23 @@
 const help = (prefix) => {
 	return `
-「 *𝔍𝔞𝔯𝔳𝔦𝔰* 」
-
-◪ *informações*
-  ❏ Prefix: 「  ${prefix}  」
+   Olá! Sou Jarvis o Agrobot👨‍🌾
+	No momento tenho poucas funções, emobora seja muito funcional:
   
-◪ *FAZ AI MEU COMPADI*
+✌🏻 *TE AJUDO A FAZER FIGURINHAS...*
+  │ Responda a mensagem ou escreva no envio:
+  ├─ 👌🏻 ${prefix}sticker
+  └─ 👌🏻 ${prefix}stickergif
+  
+  
+📂 *POSSO BAIXAR VIDEOS DO YOUTUBE*
   │
-  ├─ ❏ ${prefix}sticker
-  ├─ ❏ ${prefix}stickergif
-  ├─ ❏ ${prefix}toimg
-  └─ ❏ ${prefix}tomp3
-◪ *DOWNLOADER*
+  ├─ 📂 ${prefix}ytmp3
+  └─ 📂 ${prefix}ytmp4
+
+🤙🏻 *POSSO AINDA GERAR UM LINK PARA SEU CHAT*
   │
-  ├─ ❏ ${prefix}images
-  ├─ ❏ ${prefix}ytmp3
-  └─ ❏ ${prefix}ytmp4
-◪ *MÚSICA*
-  │
-  ├─ ❏ ${prefix}lirik
-  └─ ❏ ${prefix}chord
-◪ *OUTROS*
-  │
-  ├─ ❏ ${prefix}send
-  ├─ ❏ ${prefix}wame
-  ├─ ❏ ${prefix}virtex
-  ├─ ❏ ${prefix}exe
-  ├─ ❏ ${prefix}qrcode
-  ├─ ❏ ${prefix}timer
-  ├─ ❏ ${prefix}fml
-  └─ ❏ ${prefix}fml2
+  └─ 🤙🏻 ${prefix}wame
+  
 `
 }
 
