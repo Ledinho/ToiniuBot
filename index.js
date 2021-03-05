@@ -262,7 +262,7 @@ async function starts() {
 					ownerB: '[❗] Este comando só pode ser usado pelo Toin! ❌',
 					admin: '[❗] Este comando só pode ser usado por administradores de grupo! ❌',
 					Badmin: '[❗] Este comando só pode ser usado quando o bot se torna administrador! ❌',
-                                        daftarB: `── 「REGISTRE-SE」 ──\nOlá como!\nPreciso reconhecer você faça o registo, \n\nComando : ${prefix}daftar nome\nExemplo : ${prefix}daftar Jarvis|`,
+                                        daftarB: `── 「PANE NO SISTEMA 😖」 ──\nPreciso reconhecer você, registre-se novamente! \n\nComando : ${prefix}daftar seu nome\nExemplo : ${prefix}daftar Jarvis|`,
 				}
 			}
     			const apakah = ['Ya','Tidak']
